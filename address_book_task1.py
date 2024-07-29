@@ -157,7 +157,3 @@ for name, record in book.data.items():
 upcoming_birthdays = book.get_upcoming_birthdays()
 print(upcoming_birthdays)
 jane_record.add_birthday("21.01.1995")
-
-
-
-
